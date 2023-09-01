@@ -71,10 +71,8 @@ Email：2109335797@qq.com
 
 ### 5. 相关链接
 
-- 我的个人博客 [无心睡眠]([http://](http://jiamian.ltd/))
+- 我的个人博客 [无心睡眠](http://jiamian.ltd/)
 
 ### 6. 开源协议
 
 [Apache License 2.0](http://apache.org/licenses/LICENSE-2.0.html)
-
-Copyright (c) 2017-present, JamesZBL
