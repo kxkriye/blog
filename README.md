@@ -9,7 +9,6 @@
 
 
 [![LICENSE](https://img.shields.io/hexpm/l/plug.svg)](./LICENSE)
-[![Build Status](https://www.travis-ci.org/JamesZBL/FS-Blog.svg?branch=master)](https://www.travis-ci.org/JamesZBL/FS-Blog)
 
 
 ## 基于 Spring Boot 的个人博客
